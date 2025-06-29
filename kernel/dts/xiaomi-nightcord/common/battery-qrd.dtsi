@@ -4,6 +4,10 @@
 		#include "../common/batterydata/Vince-sunwoda-40Kohm-4000mah.dtsi"
 		#include "../common/batterydata/Vince-desay-24Kohm-4000mAh.dtsi"
 		#include "../common/batterydata/Vince-coslight-50Kohm-4000mah.dtsi"
+        #include "../common/batterydata/Sakura-FMT-4v4-4000mah-41kohm.dtsi"
+		#include "../common/batterydata/Sakura-GY-4000mah-51kohm.dtsi"
+		#include "../common/batterydata/Sakura-XWD-4000mah-78kohm.dtsi"
+		#include "../common/batterydata/Sakura-Default-4000mah-41kohm.dtsi"
 		/delete-node/ qcom,qrd_msm8937_sku1_2920mah;
 	};
 };

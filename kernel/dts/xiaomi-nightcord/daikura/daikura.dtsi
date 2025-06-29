@@ -1,1 +1,2 @@
-#include "regulator-qrd.dtsi" 
+#include "battery-qrd.dtsi"
+#include "regulator-qrd.dtsi"

@@ -7,5 +7,5 @@
 #include "power.dtsi" 
 #include "touchscreen.dtsi" 
 #include "camera.dtsi" 
-#include "battery.dtsi"
+#include "battery-qrd.dtsi"
 #include "regulator-qrd.dtsi"
