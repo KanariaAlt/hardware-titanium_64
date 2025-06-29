@@ -1,3 +1,4 @@
+#include "audio.dtsi" 
 #include "display.dtsi"
 #include "touchscreen.dtsi"
 #include "../common/power-qrd.dtsi"
