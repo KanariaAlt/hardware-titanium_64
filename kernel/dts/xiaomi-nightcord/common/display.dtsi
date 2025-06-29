@@ -6,6 +6,10 @@
 #include "panel/dsi-panel-td4310-ebbg-fhdplus-video_e7.dtsi"
 #include "panel/dsi-panel-nt36672-tianma-fhdplus-video_e7.dtsi"
 #include "panel/dsi-panel-nt36672-csot-fhdplus-video_e7.dtsi"
+#include "panel/dsi-panel-otm1911-fhd-video.dtsi"
+#include "panel/dsi-panel-otm1911-fhdplus-video.dtsi"
+#include "panel/dsi-panel-ili7807-fhdplus-video.dtsi"
+#include "panel/dsi-panel-hx8399c-fhdplus-video.dtsi"
 
 &mdss_mdp {
 	qcom,mdss-pref-prim-intf = "dsi";
