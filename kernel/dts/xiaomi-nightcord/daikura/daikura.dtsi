@@ -1,3 +1,5 @@
-#include "display.dtsi" 
-#include "battery-qrd.dtsi"
-#include "regulator-qrd.dtsi"
+#include "display.dtsi"
+#include "touchscreen.dtsi"
+#include "../common/misc-qrd.dtsi" 
+#include "../common/battery-qrd.dtsi"
+#include "../common/regulator-qrd.dtsi"
