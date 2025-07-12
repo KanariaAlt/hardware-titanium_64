@@ -1,1 +1,1 @@
-PRODUCT_DEFAULT_DEV_CERTIFICATE := hardware/mititanium-module/keys/releasekey
+PRODUCT_DEFAULT_DEV_CERTIFICATE := hardware/titanium_64/keys/releasekey
